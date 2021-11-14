@@ -1,6 +1,6 @@
 <p> 
   <h1 align="center">visitorcount<br>
-  <img src="https://profile-counter.glitch.me/karpovelho/count.svg" />
+  <img src="https://profile-counter.glitch.me/tossajax/count.svg" />
     </h1>
 </p>
 
