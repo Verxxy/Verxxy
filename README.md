@@ -1,3 +1,14 @@
+<p> 
+  <h1 align="center">visitorcount<br>
+  <img src="https://profile-counter.glitch.me/karpovelho/count.svg" />
+    </h1>
+</p>
+
+<p align="center">
+    bossman.
+
+
+
 - 👋 Mops oon @Tossajax
 - 👀 Mä oon kiinnostunut Devauksesta!
 - 🌱 Yritän opetella devamaan tällä hetkellä :DD
