@@ -4,6 +4,8 @@
 - 📫 Voit kysyä asioita minulta discordissa: ^ᴛoꜱꜱaja#2718
 
 
+
+
 <p> 
   <h1 align="center">visitorcount<br>
   <img src="https://profile-counter.glitch.me/tossajax/count.svg" />
