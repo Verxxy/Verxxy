@@ -7,7 +7,7 @@
   
   <p align="center">
     <a href="https://discordapp.com/users/709015407381708903" target="blank_">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-tossaja%230101-3b0000?style=for-the-badge&logo=discord&logoColor=000&logoWidth=20?color=000'">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-tossaja%232718-3b0000?style=for-the-badge&logo=discord&logoColor=000&logoWidth=20?color=000'">
     </a>
     <a href="https://dsg.gg/edgerp" target="blank_">
    </a>
@@ -21,7 +21,7 @@
 <div aling="center">
     
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/190490660455972864)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/ttossaja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/Tossukka) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/709015407381708903)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/ttossaja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/Tossukkka) 
   
   <p align="center">
     bossman.
