@@ -6,7 +6,7 @@
 
   
   <p align="center">
-    <a href="https://discordapp.com/users/190490660455972864" target="blank_">
+    <a href="https://discordapp.com/users/709015407381708903" target="blank_">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-tossaja%230101-3b0000?style=for-the-badge&logo=discord&logoColor=000&logoWidth=20?color=000'">
     </a>
     <a href="https://dsg.gg/edgerp" target="blank_">
