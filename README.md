@@ -7,14 +7,14 @@
   
   <p align="center">
     <a href="https://discordapp.com/users/709015407381708903" target="blank_">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-tossaja%232718-404040?style=for-the-badge&logo=discord&logoColor=000&logoWidth=20?color=000'">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-tossaja%232718-000000?style=for-the-badge&logo=discord&logoColor=000&logoWidth=20?color=000'">
     </a>
     <a href="https://dsg.gg/edgerp" target="blank_">
    </a>
 </p>
  
 <div align="center">
-    <img width="200" height="30" src="https://komarev.com/ghpvc/?username=tossajaxp&style=flat-square&color=404040" alt="Ttossaja" />
+    <img width="200" height="30" src="https://komarev.com/ghpvc/?username=tossajaxp&style=flat-square&color=000000" alt="Ttossaja" />
 </div>
 
 <hr />
