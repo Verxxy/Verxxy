@@ -1,4 +1,4 @@
-- 👋 Mops oon @Tossajax
+- 👋 Mops oon Tossaja
 - 👀 Mä oon kiinnostunut Devauksesta!
 - 🌱 Yritän opetella devamaan tällä hetkellä :DD
 - 📫 Voit kysyä asioita minulta discordissa: ^ᴛoꜱꜱaja#2718
