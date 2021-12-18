@@ -14,7 +14,7 @@
 </p>
  
 <div align="center">
-    <img width="200" height="30" src="https://komarev.com/ghpvc/?username=tossajaxp&style=flat-square&color=3b0000" alt="Ttossaja" />
+    <img width="200" height="30" src="https://komarev.com/ghpvc/?username=tossajaxp&style=flat-square&color=404040" alt="Ttossaja" />
 </div>
 
 <hr />
