@@ -25,3 +25,6 @@
   
   <p align="center">
     bossman.
+    
+    
+<figure><embed src="https://wakatime.com/share/@Tossajax/719bfd81-1012-459c-9904-489073aaa2d1.svg"></embed></figure>
