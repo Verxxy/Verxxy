@@ -3,7 +3,7 @@
     <a href="https://discordapp.com/users/709015407381708903" target="blank_">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-tossaja%232718-000000?style=for-the-badge&logo=discord&logoColor=000&logoWidth=20?color=000'">
     </a>
-    <a href="https://dsg.gg/edgerp" target="blank_">
+    <a href="https://dsc.gg/tobusrp" target="blank_">
    </a>
 </p>
  
